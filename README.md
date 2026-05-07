@@ -82,4 +82,3 @@ I’m a backend-oriented developer focused on building scalable web applications
 ## 📫 Contact
 
 - GitHub: https://github.com/KuraPiee
-- Email: (add your email here)
