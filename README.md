@@ -76,11 +76,11 @@ Open to **freelance & part-time remote opportunities**.
 ## Stats & Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KuraPiee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=KuraPiee&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=bc8cff&currStreakLabel=58a6ff"/>
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=KuraPiee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
+  <img height="180" src="https://streak-stats.demolab.com/?user=KuraPiee&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=bc8cff&currStreakLabel=58a6ff"/>
 </p>
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuraPiee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KuraPiee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
 </p>
 
 ---
