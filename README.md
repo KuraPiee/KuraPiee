@@ -53,8 +53,10 @@ Open to **freelance & part-time remote opportunities**.
 
 ## Open Source Contributions
 
-- 🌐 [**pmndrs/react-three-examples**](https://github.com/pmndrs/react-three-examples) — Official Three.js WebGPU examples ported to idiomatic React Three Fiber v10.
-- ⚡ [**pmndrs/drei**](https://github.com/pmndrs/drei) — Useful helpers, components and shaders for React Three Fiber.
+- 🌐 [**pmndrs/react-three-examples** #6](https://github.com/pmndrs/react-three-examples/pull/6) — TypeScript type-casting cleanups (`as unknown as X` → `as X`).
+- ⚡ [**pmndrs/examples** #224](https://github.com/pmndrs/examples/pull/224) — Added interactive `Trail` & `CatmullRomLine` example for `@react-three/drei` (Refs pmndrs/drei#2680).
+- 👩‍🦯 [**pmndrs/react-three-a11y** #56](https://github.com/pmndrs/react-three-a11y/pull/56) — Optimized `<Html>` component with per-frame camera matrix batching, fixing severe FPS drops (Fixes #34).
+- 🎨 [**pmndrs/market** #105](https://github.com/pmndrs/market/pull/105) — Implemented Three.js code starter for HDRIs with RGBELoader & PMREMGenerator (Closes #41).
 
 ---
 
