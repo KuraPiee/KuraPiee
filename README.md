@@ -39,21 +39,38 @@ Open to **freelance & part-time remote opportunities**.
 
 ---
 
-## Projects
+## Featured Open Source Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🛡️ [**fauxhuman**](https://github.com/KuraPiee/fauxhuman) | Enterprise bot detection middleware, behavioral scoring engine & Playwright security test harness | TypeScript · Fastify · Express · Redis · Playwright |
+| 💎 [**kurapie-price-engine**](https://github.com/KuraPiee/kurapie-price-engine) | High-speed e-commerce price aggregator, shipping calculator & Manifest V3 Chrome extension with fuzzy matching | Python · Flask · SQLite · Docker · Chrome Ext |
+| 📊 [**xfolio**](https://github.com/KuraPiee/xfolio) | Creator portfolio, real-time analytics dashboard & brand sponsorship marketplace | PHP · MySQL · Bootstrap 5 · Chart.js |
+
+---
+
+## Open Source Contributions
+
+- 🌐 [**pmndrs/react-three-examples**](https://github.com/pmndrs/react-three-examples) — Official Three.js WebGPU examples ported to idiomatic React Three Fiber v10.
+- ⚡ [**pmndrs/drei**](https://github.com/pmndrs/drei) — Useful helpers, components and shaders for React Three Fiber.
+
+---
+
+## Products & Client Work
 
 | Project | Description | Stack |
 |---|---|---|
 | **E-Kilit** | SaaS smart board locking system for schools & companies | Next.js · Fastify · PostgreSQL · React Native · Electron |
 | **FaturaMai** | AI-powered invoice reading & accounting automation | Next.js · Node.js · Gemini API · PostgreSQL · MinIO |
 | **SimpleGarage** | Garage management system | React · Node.js · PostgreSQL |
-| **manayolu.com** | Client project | — |
-| **ataozoglu.com** | Client project | — |
-| **onurozpinar.com** | Client project | — |
-| **40+ more** | Delivered to real clients | Various |
+| **manayolu.com** | Client web application | Next.js · Full-stack |
+| **ataozoglu.com** | Client website & CMS | Web |
+| **onurozpinar.com** | Client website & CMS | Web |
+| **40+ more** | Real-world production projects delivered to clients | Various |
 
 ---
 
-## Stats
+## Stats & Activity
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=KuraPiee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
@@ -66,3 +83,4 @@ Open to **freelance & part-time remote opportunities**.
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=80&section=footer"/>
+
