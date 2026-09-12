@@ -1,90 +1,90 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=140&section=header&text=Eren%20Özdemir&fontSize=42&fontColor=58a6ff&fontAlignY=55&desc=Full-Stack%20Developer%20%7C%20Istanbul&descSize=16&descAlignY=80&descColor=8b949e"/>
+﻿<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=140&section=header&text=Eren%20Özdemir%20(@KuraPiee)&fontSize=38&fontColor=58a6ff&fontAlignY=55&desc=Electrical%20%26%20Electronics%20Technician%20%7C%20AI%20%26%20Full-Stack%20Engineer&descSize=15&descAlignY=80&descColor=8b949e"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=React+%2F+Next.js+%2F+Vue.js+Developer;Node.js+%2F+Fastify+Backend+Engineer;PostgreSQL+%2F+MongoDB+%2F+MinIO;AI+API+Integrations+(Gemini+%2B+OpenAI);40%2B+Client+Projects+Delivered;Building+SaaS+Products+%E2%86%92+E-Kilit+%7C+FaturaMai)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Electrical+%26+Electronics+Technician+%7C+Istanbul;Deep+Learning+%26+Neural+Networks+(CNN%2C+ResNet%2C+LSTM);Full-Stack+Architect+(Next.js+15%2C+TypeScript%2C+Node.js);Creator+of+Docwyrm+(docwyrm.com)+%26+beadless+(npm);Flutter+Mobile+%7C+OracleSQL+%7C+Docker+%7C+40%2B+Shipped+Projects)](https://git.io/typing-svg)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-profile.docwyrm.com-58a6ff?style=for-the-badge)](https://profile.docwyrm.com)
+[![Docwyrm](https://img.shields.io/badge/📚_Docwyrm-docwyrm.com-bc8cff?style=for-the-badge)](https://docwyrm.com)
+[![npm beadless](https://img.shields.io/badge/🧠_npm-beadless-3fb950?style=for-the-badge)](https://www.npmjs.com/package/beadless)
 
 </div>
 
 ---
 
-## About
+## 🇹🇷 Hakkımda (Turkish)
 
-Full-stack developer with **5+ years of experience**, focused on building production-grade web systems and SaaS products.  
-Delivered **40+ real client projects**, currently developing my own products targeting Turkish and international markets.  
-Open to **freelance & part-time remote opportunities**.
-
----
-
-## Tech Stack
-
-### Languages
-[![Languages](https://skillicons.dev/icons?i=ts,js,python,php,cs,cpp)](https://skillicons.dev)
-
-### Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css)](https://skillicons.dev)
-
-### Backend & Runtime
-[![Backend](https://skillicons.dev/icons?i=nodejs,fastify)](https://skillicons.dev)
-
-### Databases & Storage
-[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,cassandra)](https://skillicons.dev)
-> + **MinIO** (object storage)
-
-### AI & Integrations
-> Gemini API · OpenAI API · REST API design · WebSocket
-
-### Tools & Platforms
-[![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode)](https://skillicons.dev)
+- ⚡ **Kimim?** Elektrik - Elektronik Teknikeri, 19 yaşında (İstanbul).
+- 🚀 **Deneyim:** 13 yaşından beri hobi olarak başlayan ve tutkuyla devam eden 6+ yıllık aktif yazılım serüveni. 
+- 🌐 **Web & Backend:** Modern web teknolojilerini (JavaScript, TypeScript, Node.js, PHP, HTML5, CSS3, React, Next.js, Fastify/Express, Tailwind CSS) baştan sona yalayıp yutmuş seviyede.
+- 📱 **Mobil & Sistem:** Orta-üst seviye **Flutter & Dart**, orta seviye **C** ve **C#**.
+- 🧠 **Yapay Zeka & Derin Öğrenme Eğitimleri:**
+  - Evrişimsel Sinir Ağları (**CNN**)
+  - Yapay Sinir Ağları (**ANN**) & Artık Ağlar (**ResNet**)
+  - Doğal Dil İşleme (**NLP**) & Uzun-Kısa Süreli Bellek (**LSTM**)
+  - **TensorFlow**, NumPy, Pandas & Python AI Pipeline
+  - **OracleSQL** & İlişkisel Büyük Veri Mimarisi, **jQuery** temelleri
+- 📦 **Girişimler:** [Docwyrm](https://docwyrm.com) (Gelişmiş dokümantasyon platformu) ve [beadless](https://www.npmjs.com/package/beadless) (Git-native AI agent memory motoru).
 
 ---
 
-## Featured Open Source Projects
+## 🇬🇧 About Me (English)
 
-| Project | Description | Stack |
-|---|---|---|
-| 🛡️ [**fauxhuman**](https://github.com/KuraPiee/fauxhuman) | Enterprise bot detection middleware, behavioral scoring engine & Playwright security test harness | TypeScript · Fastify · Express · Redis · Playwright |
-| 💎 [**kurapie-price-engine**](https://github.com/KuraPiee/kurapie-price-engine) | High-speed e-commerce price aggregator, shipping calculator & Manifest V3 Chrome extension with fuzzy matching | Python · Flask · SQLite · Docker · Chrome Ext |
-| 📊 [**xfolio**](https://github.com/KuraPiee/xfolio) | Open-source link-in-bio, social analytics tracker & sponsorship marketplace engine for creators | PHP · MySQL · Bootstrap 5 · Chart.js |
-| ⚡ [**studyflow**](https://github.com/KuraPiee/studyflow) | Universal video playback speed controller (up to 16x), background tab anti-pause & course navigation assistant | JavaScript · Chrome MV3 · HTML5 Video API |
-| 📥 [**omnigrab**](https://github.com/KuraPiee/omnigrab) | Ad-free, privacy-first universal media sniffer & video/audio stream downloader for MP4, MP3, WebM & HLS | JavaScript · Chrome MV3 · WebRequest API |
-
----
-
-## Open Source Contributions
-
-- 🌐 [**pmndrs/react-three-examples** #6](https://github.com/pmndrs/react-three-examples/pull/6) — TypeScript type-casting cleanups (`as unknown as X` → `as X`).
-- ⚡ [**pmndrs/examples** #224](https://github.com/pmndrs/examples/pull/224) — Added interactive `Trail` & `CatmullRomLine` example for `@react-three/drei` (Refs pmndrs/drei#2680).
-- 👩‍🦯 [**pmndrs/react-three-a11y** #56](https://github.com/pmndrs/react-three-a11y/pull/56) — Optimized `<Html>` component with per-frame camera matrix batching, fixing severe FPS drops (Fixes #34).
-- 🎨 [**pmndrs/market** #105](https://github.com/pmndrs/market/pull/105) — Implemented Three.js code starter for HDRIs with RGBELoader & PMREMGenerator (Closes #41).
+- ⚡ **Role:** Electrical & Electronics Technician, 19 years old, based in Istanbul, Turkey.
+- 🚀 **Experience:** 6+ years of passionate software development (started coding at age 13). 40+ client projects delivered.
+- 🌐 **Web Mastery:** Complete fluency in modern web engineering (TypeScript, JavaScript, Node.js, PHP, HTML5/CSS3, React, Next.js 15, Fastify, Express, Tailwind CSS).
+- 📱 **Mobile & Systems:** Upper-intermediate **Flutter & Dart** mobile development; intermediate **C** & **C#** systems programming.
+- 🧠 **AI & Deep Learning Coursework:**
+  - Convolutional Neural Networks (**CNN**)
+  - Artificial Neural Networks (**ANN**) & Residual Networks (**ResNet**)
+  - Natural Language Processing (**NLP**) & Recurrent **LSTM** architectures
+  - **TensorFlow** & Python ML stack
+  - **OracleSQL** & Relational database administration, **jQuery** foundations
+- 📦 **Products:** Creator of [Docwyrm](https://docwyrm.com) (open-source GitBook alternative) and [beadless](https://github.com/KuraPiee/beadless) (Git-native MCP agent memory engine).
 
 ---
 
-## Products & Client Work
+## 🛠️ Tech Stack & Arsenal
 
-| Project | Description | Stack |
-|---|---|---|
-| **E-Kilit** | SaaS smart board locking system for schools & companies | Next.js · Fastify · PostgreSQL · React Native · Electron |
-| **FaturaMai** | AI-powered invoice reading & accounting automation | Next.js · Node.js · Gemini API · PostgreSQL · MinIO |
-| **SimpleGarage** | Garage management system | React · Node.js · PostgreSQL |
-| **manayolu.com** | Client web application | Next.js · Full-stack |
-| **ataozoglu.com** | Client website & CMS | Web |
-| **onurozpinar.com** | Client website & CMS | Web |
-| **40+ more** | Real-world production projects delivered to clients | Various |
+### Deep Learning & AI
+[![AI Stack](https://skillicons.dev/icons?i=python,tensorflow)](https://skillicons.dev)
+> **CNN · ANN · ResNet · LSTM · NLP · TensorFlow · Gemini API · OpenAI API**
+
+### Languages & Frameworks
+[![Languages](https://skillicons.dev/icons?i=ts,js,python,php,cs,c,dart,flutter)](https://skillicons.dev)
+
+### Web & Full-Stack
+[![Web](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,nodejs,fastify,express)](https://skillicons.dev)
+
+### Databases & DevOps
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,docker,linux,nginx)](https://skillicons.dev)
+> + **OracleSQL** · MinIO
 
 ---
 
-## Stats & Activity
+## 🌟 Featured Projects
+
+| Project | Description | Stack | Live |
+|---|---|---|---|
+| 📚 [**Docwyrm**](https://github.com/KuraPiee/docwyrm) | Open-source, self-hostable documentation platform with multi-book spaces and marketplace | Next.js 15 · Express · TypeScript · Tailwind · VDS | [docwyrm.com](https://docwyrm.com) |
+| 🧠 [**beadless**](https://github.com/KuraPiee/beadless) | Git-native persistent memory & task graph for AI coding agents (Claude Code, Cursor, Antigravity) | TypeScript · MCP SDK · Git-Native | [npm package](https://www.npmjs.com/package/beadless) |
+| 🛡️ [**fauxhuman**](https://github.com/KuraPiee/fauxhuman) | Enterprise bot detection middleware, behavioral scoring engine & Playwright security harness | TypeScript · Fastify · Express · Redis | [GitHub](https://github.com/KuraPiee/fauxhuman) |
+| 🏫 [**E-Kilit**](https://github.com/KuraPiee) | Smart board locking and management system for schools and corporate enterprises | Next.js · Fastify · PostgreSQL · Electron | SaaS |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=KuraPiee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
-  <img height="180" src="https://streak-stats.demolab.com/?user=KuraPiee&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=bc8cff&currStreakLabel=58a6ff"/>
+  <img height="175" src="https://github-readme-stats-fast.vercel.app/api?username=KuraPiee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
+  <img height="175" src="https://streak-stats.demolab.com/?user=KuraPiee&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=bc8cff&currStreakLabel=58a6ff"/>
 </p>
 <p align="center">
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KuraPiee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
+  <img height="175" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KuraPiee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
 </p>
 
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=80&section=footer"/>
-
