@@ -47,6 +47,7 @@ Open to **freelance & part-time remote opportunities**.
 | 💎 [**kurapie-price-engine**](https://github.com/KuraPiee/kurapie-price-engine) | High-speed e-commerce price aggregator, shipping calculator & Manifest V3 Chrome extension with fuzzy matching | Python · Flask · SQLite · Docker · Chrome Ext |
 | 📊 [**xfolio**](https://github.com/KuraPiee/xfolio) | Open-source link-in-bio, social analytics tracker & sponsorship marketplace engine for creators | PHP · MySQL · Bootstrap 5 · Chart.js |
 | ⚡ [**studyflow**](https://github.com/KuraPiee/studyflow) | Universal video playback speed controller (up to 16x), background tab anti-pause & course navigation assistant | JavaScript · Chrome MV3 · HTML5 Video API |
+| 📥 [**omnigrab**](https://github.com/KuraPiee/omnigrab) | Ad-free, privacy-first universal media sniffer & video/audio stream downloader for MP4, MP3, WebM & HLS | JavaScript · Chrome MV3 · WebRequest API |
 
 ---
 
