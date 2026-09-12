@@ -45,7 +45,7 @@ Open to **freelance & part-time remote opportunities**.
 |---|---|---|
 | 🛡️ [**fauxhuman**](https://github.com/KuraPiee/fauxhuman) | Enterprise bot detection middleware, behavioral scoring engine & Playwright security test harness | TypeScript · Fastify · Express · Redis · Playwright |
 | 💎 [**kurapie-price-engine**](https://github.com/KuraPiee/kurapie-price-engine) | High-speed e-commerce price aggregator, shipping calculator & Manifest V3 Chrome extension with fuzzy matching | Python · Flask · SQLite · Docker · Chrome Ext |
-| 📊 [**xfolio**](https://github.com/KuraPiee/xfolio) | Creator portfolio, real-time analytics dashboard & brand sponsorship marketplace | PHP · MySQL · Bootstrap 5 · Chart.js |
+| 📊 [**xfolio**](https://github.com/KuraPiee/xfolio) | Open-source link-in-bio, social analytics tracker & sponsorship marketplace engine for creators | PHP · MySQL · Bootstrap 5 · Chart.js |
 
 ---
 
